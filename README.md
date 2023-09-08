@@ -23,6 +23,6 @@ Endi bemalol ```goweather``` buyrug'ini ishga tushirishimiz mumkin.
 ```bash
 goweather
 ```
-Va quyidagi natijani olimishimiz mumkin.
+Va quyidagi natijani olimishimiz mumkin.<br>
 ![image](https://github.com/alishercpp/GoWeather/assets/142798073/701c696c-9847-4a51-bf21-7e328f466599)
 
